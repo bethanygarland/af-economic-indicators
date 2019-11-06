@@ -1,33 +1,23 @@
-# a-economic-indicators
+# African Economic Indicators
 
-### <span style="color:red">Africa's Growing Economy</span>
+### <span style="color:red">Africa's Growing Economy</span> 
 
-Back in 2010 McKinsey released 'Lions on the Move', a report predicting that Africa would generate as 
-much as $2.6 trillion in revenue by 2020. It started to become very popular with investors, who found that 
-returns in emerging markets could generate up to three times the return than those in Western Economies. 
-Many experts dubbed Africa's expected growth as the new Southeast Asia and predicted the kind of rapid industrialisation we saw there. A comibination of fluctuating commodity markets, political factors and currency instability has meant that it is hasn't quite taken off as expected. However, there is still a lot to be excited about. About half of the world’s fastest-growing economies in recent years have been located in Africa, 
-with 20 economies expanding at an average annual rate of 5% or higher over the next five years, that's
-faster than the 3.6% rate for the global economy. Africa is still the world's second fastest growing continent.
+This repository is part of an introductory Python project set by General Assembly for their [Python Programming course.](https://generalassemb.ly/education/python-programming). It explores Africa's often mystifying growth utilising a dataset collected by the African Development Bank Group. The dataset forms a collection of economic indicators from 1980 all the way up to 2020 predictions. \
 
-This report explores Africa's often mystifying growth using a dataset of various economic indicators from 1980 all the way up to 
-2020 predictions. 
+The data is mainly focused around different measurements of Gross Domestic Product (GDP) and the various factors that may contribute to GDP, as well as other measures such as Inflation. It covers the majority of countries and regions in Africa. \
 
-[Source of the data](https://data.world/afdb/421e2042-f32e-4bc2-9cec-4834c0d017aa) \
-[Link to the published report](https://www.afdb.org/en/knowledge/publications/african-economic-outlook)
-[Link to my initial analysis](https://git.generalassemb.ly/BethanyGarland/a-economic-indicators/blob/master/Africa%20Indicators%20.ipynb)
-[Link to my final Report](https://git.generalassemb.ly/BethanyGarland/a-economic-indicators/blob/master/report.ipynb)
 
-Methodology - Registry
+[Source of the data](https://data.humdata.org/dataset/african-economic-outlook-august-2015) \
 
-Source: https://data.humdata.org/dataset/african-economic-outlook-august-2015
-Last updated at https://data.humdata.org/organization/afdb : 2019-10-11
+[Link to the published report](https://www.afdb.org/en/knowledge/publications/african-economic-outlook) \
 
-License -
-Creative Commons Attribution
+Methodology - Registry \
+
+License - Creative Commons Attribution \
 
 
 ### Data Dictionary
-Country and Regions', 
+Country and Regions -  \
 'Country and Regions Name',
 Country and Regions - RegionId', 
 'Indicators', 
