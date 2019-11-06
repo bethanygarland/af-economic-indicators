@@ -2,22 +2,22 @@
 
 ### <span style="color:red">Africa's Growing Economy</span> 
 
-This repository is part of an introductory Python project set by General Assembly for their [Python Programming course.](https://generalassemb.ly/education/python-programming). It explores Africa's often mystifying growth utilising a dataset collected by the African Development Bank Group. The dataset forms a collection of economic indicators from 1980 all the way up to 2020 predictions. \
+This repository is part of an introductory Python project set by General Assembly for their [Python Programming course.](https://generalassemb.ly/education/python-programming). It explores Africa's often mystifying growth utilising a dataset collected by the African Development Bank Group. The dataset forms a collection of economic indicators from 1980 all the way up to 2020 predictions. 
 
-The data is mainly focused around different measurements of Gross Domestic Product (GDP) and the various factors that may contribute to GDP, as well as other measures such as Inflation. It covers the majority of countries and regions in Africa. \
+The data is mainly focused around different measurements of Gross Domestic Product (GDP) and the various factors that may contribute to GDP, as well as other measures such as Inflation. It covers the majority of countries and regions in Africa. 
 
 
-[Source of the data](https://data.humdata.org/dataset/african-economic-outlook-august-2015) \
+[Source of the data](https://data.humdata.org/dataset/african-economic-outlook-august-2015) 
 
-[Link to the published report](https://www.afdb.org/en/knowledge/publications/african-economic-outlook) \
+[Link to the published report](https://www.afdb.org/en/knowledge/publications/african-economic-outlook) 
 
-Methodology - Registry \
+Methodology - Registry 
 
-License - Creative Commons Attribution \
+License - Creative Commons Attribution 
 
 
 ### Data Dictionary
-Country and Regions -  \
+Country and Regions -  
 'Country and Regions Name',
 Country and Regions - RegionId', 
 'Indicators', 
