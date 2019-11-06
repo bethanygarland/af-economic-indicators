@@ -12,10 +12,19 @@ faster than the 3.6% rate for the global economy. Africa is still the world's se
 This report explores Africa's often mystifying growth using a dataset of various economic indicators from 1980 all the way up to 
 2020 predictions. 
 
-[Source of the data](https://data.world/afdb/421e2042-f32e-4bc2-9cec-4834c0d017aa)
+[Source of the data](https://data.world/afdb/421e2042-f32e-4bc2-9cec-4834c0d017aa) \
 [Link to the published report](https://www.afdb.org/en/knowledge/publications/african-economic-outlook)
 [Link to my initial analysis](https://git.generalassemb.ly/BethanyGarland/a-economic-indicators/blob/master/Africa%20Indicators%20.ipynb)
 [Link to my final Report](https://git.generalassemb.ly/BethanyGarland/a-economic-indicators/blob/master/report.ipynb)
+
+Methodology - Registry
+
+Source: https://data.humdata.org/dataset/african-economic-outlook-august-2015
+Last updated at https://data.humdata.org/organization/afdb : 2019-10-11
+
+License -
+Creative Commons Attribution
+
 
 ### Data Dictionary
 Country and Regions', 
